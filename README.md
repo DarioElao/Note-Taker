@@ -10,7 +10,7 @@ This app allows the user to read and write notes. The app uses Express.js and No
 4. [Email](#email)
 
 ## Installation:
-1. Deploy the webapp with the following link [Note Taker App by Heroku](https://secure-mesa-88019.herokuapp.com)
+1. Deploy the webapp with the following link [Note Taker App by Heroku](https://afunnotetakerapp.herokuapp.com/)
 2. Add a title to your note 
 3. Click on the save icon to save your note
 4. Click on the plus icon to add new notes
